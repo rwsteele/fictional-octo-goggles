@@ -1,0 +1,130 @@
+[
+    {
+        "gift_cards": "amazon",
+        "card_number": "82839u2839ur8rd",
+        "amount": "100",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc3464a436b.png"
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "12eiou2893ye72i",
+        "amount": "300",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc3493ccb69.png"
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "39982u892u828e38239",
+        "amount": "500",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc34e0ebe2d.png"
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "88282828282882882",
+        "amount": "200",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc3614e57fe.png"
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "42232332232323232332",
+        "amount": "222",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc366d94260.png"
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "100111101001",
+        "amount": "100",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc36ad3ed8d.png"
+    },
+    {
+        "gift_cards": "walmart",
+        "card_number": "667767667676767",
+        "amount": "100",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "3323323223322",
+        "amount": "111",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc385f3090e.png"
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "uurururuururururuururuur",
+        "amount": "200",
+        "pin": "",
+        "status": "Pending",
+        "image": "uploads\/67bc4e35cb097.png"
+    },
+    {
+        "gift_cards": "walmart",
+        "card_number": "e9393939383839",
+        "amount": "299",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "383838383838382929",
+        "amount": "900",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    },
+    {
+        "gift_cards": "walmart",
+        "card_number": "e",
+        "amount": "eeee",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    },
+    {
+        "gift_cards": "walmart",
+        "card_number": "d2e2e23",
+        "amount": "100",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    },
+    {
+        "gift_cards": "amazon",
+        "card_number": "444",
+        "amount": "100",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    },
+    {
+        "gift_cards": "walmart",
+        "card_number": "3839283748393",
+        "amount": "100",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    },
+    {
+        "gift_cards": "walmart",
+        "card_number": "12343029",
+        "amount": "1000299292922",
+        "pin": "",
+        "status": "Pending",
+        "image": ""
+    }
+]
